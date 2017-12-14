@@ -25,7 +25,7 @@ int main(){
 
 								//Input num1
 								cout<<"Input second number:";
-								cin>>num2;
+							cin>>num2;
 
 								//Calculation:
 								add=num1+num2;
